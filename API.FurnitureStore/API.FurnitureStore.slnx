@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="API.FurnitureStore.API/API.FurnitureStore.API.csproj" />
+  <Project Path="API.FurnitureStore.Data/API.FurnitureStore.Data.csproj" />
+  <Project Path="API.FurnitureStore.Share/API.FurnitureStore.Share/API.FurnitureStore.Share.csproj" />
+</Solution>
