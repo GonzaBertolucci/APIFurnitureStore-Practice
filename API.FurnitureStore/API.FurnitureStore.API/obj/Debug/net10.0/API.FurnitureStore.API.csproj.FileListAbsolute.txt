@@ -153,3 +153,4 @@ C:\Users\Gonza\Documents\repos\API.FurnitureStore\API.FurnitureStore\API.Furnitu
 C:\Users\Gonza\Documents\repos\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\Gonza\Documents\repos\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\Gonza\Documents\repos\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Gonza\Documents\repos\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.API\obj\Debug\net10.0\API.FurnitureStore.API.sourcelink.json

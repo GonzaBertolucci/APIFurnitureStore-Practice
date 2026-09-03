@@ -1,8 +1,8 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using API.FurnitureStore.Data;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using API.FurnitureStore.Share;
 using Microsoft.EntityFrameworkCore;
-using API.FurnitureStore.Data;
 
 namespace API.FurnitureStore.API.Controllers
 {
@@ -31,6 +31,12 @@ namespace API.FurnitureStore.API.Controllers
             return Ok(product);
         }
 
+        [HttpGet("GetByCategory/{productCategoryId}")]
+        public async Task<IEnumerable<Product>> GetByCategory(int productCategoryId)
+        {
+            return await _context.Products.Where(p => p.ProductCategoryId == productCategoryId).ToListAsync();
+        } 
+
         [HttpPost]
         public async Task<ActionResult> Post(Product product)
         {
@@ -43,9 +49,9 @@ namespace API.FurnitureStore.API.Controllers
         [HttpPut]
         public async Task<IActionResult> Put(Product product)
         {
-           _context.Products.Update(product);
-           await _context.SaveChangesAsync();
-           return NoContent();
+            _context.Products.Update(product);
+            await _context.SaveChangesAsync();
+            return NoContent();
         }
 
         [HttpDelete]
@@ -56,5 +62,6 @@ namespace API.FurnitureStore.API.Controllers
             await _context.SaveChangesAsync();
             return NoContent();
         }
+
     }
 }

@@ -15,3 +15,4 @@ C:\Users\Gonza\Documents\repos\API.FurnitureStore\API.FurnitureStore\API.Furnitu
 C:\Users\Gonza\Documents\repos\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.Data\obj\Debug\net10.0\API.FurnitureStore.Data.pdb
 C:\Users\Gonza\Documents\repos\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.Data\obj\Debug\net10.0\API.FurnitureStore.Data.genruntimeconfig.cache
 C:\Users\Gonza\Documents\repos\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.Data\obj\Debug\net10.0\ref\API.FurnitureStore.Data.dll
+C:\Users\Gonza\Documents\repos\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.Data\obj\Debug\net10.0\API.FurnitureStore.Data.sourcelink.json
