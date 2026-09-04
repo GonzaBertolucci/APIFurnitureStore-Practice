@@ -3,44 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Gonza\\Documents\\repos\\API.FurnitureStore\\API.FurnitureStore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F2F49ECD-6A89-5FDE-2A3E-796B1E167677}|API.FurnitureStore.API\\API.FurnitureStore.API.csproj|c:\\users\\gonza\\documents\\repos\\api.furniturestore\\api.furniturestore\\api.furniturestore.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2F49ECD-6A89-5FDE-2A3E-796B1E167677}|API.FurnitureStore.API\\API.FurnitureStore.API.csproj|solutionrelative:api.furniturestore.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F2F49ECD-6A89-5FDE-2A3E-796B1E167677}|API.FurnitureStore.API\\API.FurnitureStore.API.csproj|c:\\users\\gonza\\documents\\repos\\api.furniturestore\\api.furniturestore\\api.furniturestore.api\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2F49ECD-6A89-5FDE-2A3E-796B1E167677}|API.FurnitureStore.API\\API.FurnitureStore.API.csproj|solutionrelative:api.furniturestore.api\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2F49ECD-6A89-5FDE-2A3E-796B1E167677}|API.FurnitureStore.API\\API.FurnitureStore.API.csproj|c:\\users\\gonza\\documents\\repos\\api.furniturestore\\api.furniturestore\\api.furniturestore.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2F49ECD-6A89-5FDE-2A3E-796B1E167677}|API.FurnitureStore.API\\API.FurnitureStore.API.csproj|solutionrelative:api.furniturestore.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79261CF7-79D4-E36A-2294-D21BB43C4B41}|API.FurnitureStore.Data\\API.FurnitureStore.Data.csproj|c:\\users\\gonza\\documents\\repos\\api.furniturestore\\api.furniturestore\\api.furniturestore.data\\apifurniturestorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79261CF7-79D4-E36A-2294-D21BB43C4B41}|API.FurnitureStore.Data\\API.FurnitureStore.Data.csproj|solutionrelative:api.furniturestore.data\\apifurniturestorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{624DAB85-23DD-3F9B-4F73-670E576A51D0}|API.FurnitureStore.Share\\API.FurnitureStore.Share\\API.FurnitureStore.Share.csproj|c:\\users\\gonza\\documents\\repos\\api.furniturestore\\api.furniturestore\\api.furniturestore.share\\api.furniturestore.share\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{624DAB85-23DD-3F9B-4F73-670E576A51D0}|API.FurnitureStore.Share\\API.FurnitureStore.Share\\API.FurnitureStore.Share.csproj|solutionrelative:api.furniturestore.share\\api.furniturestore.share\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{624DAB85-23DD-3F9B-4F73-670E576A51D0}|API.FurnitureStore.Share\\API.FurnitureStore.Share\\API.FurnitureStore.Share.csproj|c:\\users\\gonza\\documents\\repos\\api.furniturestore\\api.furniturestore\\api.furniturestore.share\\api.furniturestore.share\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{624DAB85-23DD-3F9B-4F73-670E576A51D0}|API.FurnitureStore.Share\\API.FurnitureStore.Share\\API.FurnitureStore.Share.csproj|solutionrelative:api.furniturestore.share\\api.furniturestore.share\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{624DAB85-23DD-3F9B-4F73-670E576A51D0}|API.FurnitureStore.Share\\API.FurnitureStore.Share\\API.FurnitureStore.Share.csproj|c:\\users\\gonza\\documents\\repos\\api.furniturestore\\api.furniturestore\\api.furniturestore.share\\api.furniturestore.share\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{624DAB85-23DD-3F9B-4F73-670E576A51D0}|API.FurnitureStore.Share\\API.FurnitureStore.Share\\API.FurnitureStore.Share.csproj|solutionrelative:api.furniturestore.share\\api.furniturestore.share\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F2F49ECD-6A89-5FDE-2A3E-796B1E167677}|API.FurnitureStore.API\\API.FurnitureStore.API.csproj|c:\\users\\gonza\\documents\\repos\\api.furniturestore\\api.furniturestore\\api.furniturestore.api\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2F49ECD-6A89-5FDE-2A3E-796B1E167677}|API.FurnitureStore.API\\API.FurnitureStore.API.csproj|solutionrelative:api.furniturestore.api\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F2F49ECD-6A89-5FDE-2A3E-796B1E167677}|API.FurnitureStore.API\\API.FurnitureStore.API.csproj|c:\\users\\gonza\\documents\\repos\\api.furniturestore\\api.furniturestore\\api.furniturestore.api\\controllers\\productcategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2F49ECD-6A89-5FDE-2A3E-796B1E167677}|API.FurnitureStore.API\\API.FurnitureStore.API.csproj|solutionrelative:api.furniturestore.api\\controllers\\productcategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{624DAB85-23DD-3F9B-4F73-670E576A51D0}|API.FurnitureStore.Share\\API.FurnitureStore.Share\\API.FurnitureStore.Share.csproj|c:\\users\\gonza\\documents\\repos\\api.furniturestore\\api.furniturestore\\api.furniturestore.share\\api.furniturestore.share\\dtos\\userloginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{624DAB85-23DD-3F9B-4F73-670E576A51D0}|API.FurnitureStore.Share\\API.FurnitureStore.Share\\API.FurnitureStore.Share.csproj|solutionrelative:api.furniturestore.share\\api.furniturestore.share\\dtos\\userloginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F2F49ECD-6A89-5FDE-2A3E-796B1E167677}|API.FurnitureStore.API\\API.FurnitureStore.API.csproj|c:\\users\\gonza\\documents\\repos\\api.furniturestore\\api.furniturestore\\api.furniturestore.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2F49ECD-6A89-5FDE-2A3E-796B1E167677}|API.FurnitureStore.API\\API.FurnitureStore.API.csproj|solutionrelative:api.furniturestore.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2F49ECD-6A89-5FDE-2A3E-796B1E167677}|API.FurnitureStore.API\\API.FurnitureStore.API.csproj|c:\\users\\gonza\\documents\\repos\\api.furniturestore\\api.furniturestore\\api.furniturestore.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2F49ECD-6A89-5FDE-2A3E-796B1E167677}|API.FurnitureStore.API\\API.FurnitureStore.API.csproj|solutionrelative:api.furniturestore.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{624DAB85-23DD-3F9B-4F73-670E576A51D0}|API.FurnitureStore.Share\\API.FurnitureStore.Share\\API.FurnitureStore.Share.csproj|c:\\users\\gonza\\documents\\repos\\api.furniturestore\\api.furniturestore\\api.furniturestore.share\\api.furniturestore.share\\auth\\authresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{624DAB85-23DD-3F9B-4F73-670E576A51D0}|API.FurnitureStore.Share\\API.FurnitureStore.Share\\API.FurnitureStore.Share.csproj|solutionrelative:api.furniturestore.share\\api.furniturestore.share\\auth\\authresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{624DAB85-23DD-3F9B-4F73-670E576A51D0}|API.FurnitureStore.Share\\API.FurnitureStore.Share\\API.FurnitureStore.Share.csproj|c:\\users\\gonza\\documents\\repos\\api.furniturestore\\api.furniturestore\\api.furniturestore.share\\api.furniturestore.share\\dtos\\userregistrationrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{624DAB85-23DD-3F9B-4F73-670E576A51D0}|API.FurnitureStore.Share\\API.FurnitureStore.Share\\API.FurnitureStore.Share.csproj|solutionrelative:api.furniturestore.share\\api.furniturestore.share\\dtos\\userregistrationrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -77,132 +57,73 @@
               "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:1192359072:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "OrdersController.cs",
-              "DocumentMoniker": "C:\\Users\\Gonza\\Documents\\repos\\API.FurnitureStore\\API.FurnitureStore\\API.FurnitureStore.API\\Controllers\\OrdersController.cs",
-              "RelativeDocumentMoniker": "API.FurnitureStore.API\\Controllers\\OrdersController.cs",
-              "ToolTip": "C:\\Users\\Gonza\\Documents\\repos\\API.FurnitureStore\\API.FurnitureStore\\API.FurnitureStore.API\\Controllers\\OrdersController.cs",
-              "RelativeToolTip": "API.FurnitureStore.API\\Controllers\\OrdersController.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAwwCsAAAAMAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "UserLoginRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\Gonza\\Documents\\repos\\API.FurnitureStore\\API.FurnitureStore\\API.FurnitureStore.Share\\API.FurnitureStore.Share\\DTOs\\UserLoginRequestDto.cs",
+              "RelativeDocumentMoniker": "API.FurnitureStore.Share\\API.FurnitureStore.Share\\DTOs\\UserLoginRequestDto.cs",
+              "ToolTip": "C:\\Users\\Gonza\\Documents\\repos\\API.FurnitureStore\\API.FurnitureStore\\API.FurnitureStore.Share\\API.FurnitureStore.Share\\DTOs\\UserLoginRequestDto.cs",
+              "RelativeToolTip": "API.FurnitureStore.Share\\API.FurnitureStore.Share\\DTOs\\UserLoginRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-03T14:41:03.625Z",
+              "WhenOpened": "2026-09-04T19:57:45.377Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "APIFurnitureStoreContext.cs",
-              "DocumentMoniker": "C:\\Users\\Gonza\\Documents\\repos\\API.FurnitureStore\\API.FurnitureStore\\API.FurnitureStore.Data\\APIFurnitureStoreContext.cs",
-              "RelativeDocumentMoniker": "API.FurnitureStore.Data\\APIFurnitureStoreContext.cs",
-              "ToolTip": "C:\\Users\\Gonza\\Documents\\repos\\API.FurnitureStore\\API.FurnitureStore\\API.FurnitureStore.Data\\APIFurnitureStoreContext.cs",
-              "RelativeToolTip": "API.FurnitureStore.Data\\APIFurnitureStoreContext.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAwwBwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-03T14:08:55.694Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\Gonza\\Documents\\repos\\API.FurnitureStore\\API.FurnitureStore\\API.FurnitureStore.Share\\API.FurnitureStore.Share\\Product.cs",
-              "RelativeDocumentMoniker": "API.FurnitureStore.Share\\API.FurnitureStore.Share\\Product.cs",
-              "ToolTip": "C:\\Users\\Gonza\\Documents\\repos\\API.FurnitureStore\\API.FurnitureStore\\API.FurnitureStore.Share\\API.FurnitureStore.Share\\Product.cs",
-              "RelativeToolTip": "API.FurnitureStore.Share\\API.FurnitureStore.Share\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-03T14:08:19.035Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "OrderDetail.cs",
-              "DocumentMoniker": "C:\\Users\\Gonza\\Documents\\repos\\API.FurnitureStore\\API.FurnitureStore\\API.FurnitureStore.Share\\API.FurnitureStore.Share\\OrderDetail.cs",
-              "RelativeDocumentMoniker": "API.FurnitureStore.Share\\API.FurnitureStore.Share\\OrderDetail.cs",
-              "ToolTip": "C:\\Users\\Gonza\\Documents\\repos\\API.FurnitureStore\\API.FurnitureStore\\API.FurnitureStore.Share\\API.FurnitureStore.Share\\OrderDetail.cs",
-              "RelativeToolTip": "API.FurnitureStore.Share\\API.FurnitureStore.Share\\OrderDetail.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-03T14:07:13.302Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\Gonza\\Documents\\repos\\API.FurnitureStore\\API.FurnitureStore\\API.FurnitureStore.Share\\API.FurnitureStore.Share\\Order.cs",
-              "RelativeDocumentMoniker": "API.FurnitureStore.Share\\API.FurnitureStore.Share\\Order.cs",
-              "ToolTip": "C:\\Users\\Gonza\\Documents\\repos\\API.FurnitureStore\\API.FurnitureStore\\API.FurnitureStore.Share\\API.FurnitureStore.Share\\Order.cs",
-              "RelativeToolTip": "API.FurnitureStore.Share\\API.FurnitureStore.Share\\Order.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAADgvw0AAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-03T14:06:47.491Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\Users\\Gonza\\Documents\\repos\\API.FurnitureStore\\API.FurnitureStore\\API.FurnitureStore.API\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "API.FurnitureStore.API\\Controllers\\ProductsController.cs",
-              "ToolTip": "C:\\Users\\Gonza\\Documents\\repos\\API.FurnitureStore\\API.FurnitureStore\\API.FurnitureStore.API\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "API.FurnitureStore.API\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAIwCsAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-03T13:49:15.232Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ProductCategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\Gonza\\Documents\\repos\\API.FurnitureStore\\API.FurnitureStore\\API.FurnitureStore.API\\Controllers\\ProductCategoryController.cs",
-              "RelativeDocumentMoniker": "API.FurnitureStore.API\\Controllers\\ProductCategoryController.cs",
-              "ToolTip": "C:\\Users\\Gonza\\Documents\\repos\\API.FurnitureStore\\API.FurnitureStore\\API.FurnitureStore.API\\Controllers\\ProductCategoryController.cs",
-              "RelativeToolTip": "API.FurnitureStore.API\\Controllers\\ProductCategoryController.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAA9wCgAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-02T15:23:58.242Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ClientsController.cs",
-              "DocumentMoniker": "C:\\Users\\Gonza\\Documents\\repos\\API.FurnitureStore\\API.FurnitureStore\\API.FurnitureStore.API\\Controllers\\ClientsController.cs",
-              "RelativeDocumentMoniker": "API.FurnitureStore.API\\Controllers\\ClientsController.cs",
-              "ToolTip": "C:\\Users\\Gonza\\Documents\\repos\\API.FurnitureStore\\API.FurnitureStore\\API.FurnitureStore.API\\Controllers\\ClientsController.cs",
-              "RelativeToolTip": "API.FurnitureStore.API\\Controllers\\ClientsController.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAwwAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-02T14:36:17.928Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Gonza\\Documents\\repos\\API.FurnitureStore\\API.FurnitureStore\\API.FurnitureStore.API\\Program.cs",
               "RelativeDocumentMoniker": "API.FurnitureStore.API\\Program.cs",
               "ToolTip": "C:\\Users\\Gonza\\Documents\\repos\\API.FurnitureStore\\API.FurnitureStore\\API.FurnitureStore.API\\Program.cs",
               "RelativeToolTip": "API.FurnitureStore.API\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-02T14:28:21.454Z"
+              "WhenOpened": "2026-09-04T18:26:10.817Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\Gonza\\Documents\\repos\\API.FurnitureStore\\API.FurnitureStore\\API.FurnitureStore.API\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "API.FurnitureStore.API\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\Gonza\\Documents\\repos\\API.FurnitureStore\\API.FurnitureStore\\API.FurnitureStore.API\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "API.FurnitureStore.API\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBcAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\Gonza\\Documents\\repos\\API.FurnitureStore\\API.FurnitureStore\\API.FurnitureStore.API\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "API.FurnitureStore.API\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\Users\\Gonza\\Documents\\repos\\API.FurnitureStore\\API.FurnitureStore\\API.FurnitureStore.API\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "API.FurnitureStore.API\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAmwDMAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-02T13:59:48.299Z"
+              "WhenOpened": "2026-09-04T18:24:01.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRegistrationRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Gonza\\Documents\\repos\\API.FurnitureStore\\API.FurnitureStore\\API.FurnitureStore.Share\\API.FurnitureStore.Share\\DTOs\\UserRegistrationRequestDTO.cs",
+              "RelativeDocumentMoniker": "API.FurnitureStore.Share\\API.FurnitureStore.Share\\DTOs\\UserRegistrationRequestDTO.cs",
+              "ToolTip": "C:\\Users\\Gonza\\Documents\\repos\\API.FurnitureStore\\API.FurnitureStore\\API.FurnitureStore.Share\\API.FurnitureStore.Share\\DTOs\\UserRegistrationRequestDTO.cs",
+              "RelativeToolTip": "API.FurnitureStore.Share\\API.FurnitureStore.Share\\DTOs\\UserRegistrationRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T18:22:24.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthResult.cs",
+              "DocumentMoniker": "C:\\Users\\Gonza\\Documents\\repos\\API.FurnitureStore\\API.FurnitureStore\\API.FurnitureStore.Share\\API.FurnitureStore.Share\\Auth\\AuthResult.cs",
+              "RelativeDocumentMoniker": "API.FurnitureStore.Share\\API.FurnitureStore.Share\\Auth\\AuthResult.cs",
+              "ToolTip": "C:\\Users\\Gonza\\Documents\\repos\\API.FurnitureStore\\API.FurnitureStore\\API.FurnitureStore.Share\\API.FurnitureStore.Share\\Auth\\AuthResult.cs",
+              "RelativeToolTip": "API.FurnitureStore.Share\\API.FurnitureStore.Share\\Auth\\AuthResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T18:21:21.509Z",
+              "EditorCaption": ""
             }
           ]
         }

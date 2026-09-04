@@ -11,10 +11,12 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("b99883ce-87be-4632-93b6-b5a58e21d721")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("API.FurnitureStore.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c58866a4ec9908176724704fbdca7d6591f6ff19")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+13deb0d6f6a258e5e67e05e26857607affb336e8")]
 [assembly: System.Reflection.AssemblyProductAttribute("API.FurnitureStore.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("API.FurnitureStore.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
