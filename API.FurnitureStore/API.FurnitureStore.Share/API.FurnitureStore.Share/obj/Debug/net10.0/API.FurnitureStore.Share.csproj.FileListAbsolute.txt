@@ -5,8 +5,8 @@ C:\Users\Gonza\Documents\repos\API.FurnitureStore\API.FurnitureStore\API.Furnitu
 C:\Users\Gonza\Documents\repos\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.Share\API.FurnitureStore.Share\obj\Debug\net10.0\API.FurnitureStore.Share.AssemblyInfoInputs.cache
 C:\Users\Gonza\Documents\repos\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.Share\API.FurnitureStore.Share\obj\Debug\net10.0\API.FurnitureStore.Share.AssemblyInfo.cs
 C:\Users\Gonza\Documents\repos\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.Share\API.FurnitureStore.Share\obj\Debug\net10.0\API.FurnitureStore.Share.csproj.CoreCompileInputs.cache
+C:\Users\Gonza\Documents\repos\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.Share\API.FurnitureStore.Share\obj\Debug\net10.0\API.FurnitureStore.Share.sourcelink.json
 C:\Users\Gonza\Documents\repos\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.Share\API.FurnitureStore.Share\obj\Debug\net10.0\API.FurnitureStore.Share.dll
 C:\Users\Gonza\Documents\repos\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.Share\API.FurnitureStore.Share\obj\Debug\net10.0\refint\API.FurnitureStore.Share.dll
 C:\Users\Gonza\Documents\repos\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.Share\API.FurnitureStore.Share\obj\Debug\net10.0\API.FurnitureStore.Share.pdb
 C:\Users\Gonza\Documents\repos\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.Share\API.FurnitureStore.Share\obj\Debug\net10.0\ref\API.FurnitureStore.Share.dll
-C:\Users\Gonza\Documents\repos\API.FurnitureStore\API.FurnitureStore\API.FurnitureStore.Share\API.FurnitureStore.Share\obj\Debug\net10.0\API.FurnitureStore.Share.sourcelink.json

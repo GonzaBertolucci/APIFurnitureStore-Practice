@@ -1,11 +1,13 @@
 ﻿using API.FurnitureStore.Data;
+using API.FurnitureStore.Share;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using API.FurnitureStore.Share;
 using Microsoft.EntityFrameworkCore;
 
 namespace API.FurnitureStore.API.Controllers
 {
+    [Authorize]
     [Route("api/[controller]")]
     [ApiController]
     public class ProductsController : ControllerBase
