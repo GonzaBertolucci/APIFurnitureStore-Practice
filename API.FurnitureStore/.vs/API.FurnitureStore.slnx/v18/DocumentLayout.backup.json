@@ -79,15 +79,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "API.FurnitureStore.API",
+              "Title": "API.FurnitureStore.API.csproj",
               "DocumentMoniker": "C:\\Users\\Gonza\\Documents\\repos\\API.FurnitureStore\\API.FurnitureStore\\API.FurnitureStore.API\\API.FurnitureStore.API.csproj",
               "RelativeDocumentMoniker": "API.FurnitureStore.API\\API.FurnitureStore.API.csproj",
               "ToolTip": "C:\\Users\\Gonza\\Documents\\repos\\API.FurnitureStore\\API.FurnitureStore\\API.FurnitureStore.API\\API.FurnitureStore.API.csproj",
               "RelativeToolTip": "API.FurnitureStore.API\\API.FurnitureStore.API.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-09-08T15:34:54.892Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-08T15:34:54.892Z"
             },
             {
               "$type": "Document",
@@ -160,8 +159,7 @@
               "RelativeToolTip": "API.FurnitureStore.API\\Program.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-04T18:26:10.817Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-04T18:26:10.817Z"
             },
             {
               "$type": "Document",
